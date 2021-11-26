@@ -4,14 +4,19 @@ TestOne
 
 ♦ (Priority = 1)
 - ciceksepeti.com sitesi açılır.
+
 ♦ (Priority = 2)
 - Ana sayfada gelen popup kapatılır.
+
 ♦ (Priority = 3)
 - Yardım sekmesi açılır
+
 ♦ (Priority = 4)
 - Tüm sıkça sorulan sorular ekranı açılır
+
 ♦ (Priority = 5)
 - Ürün arama çubuğunda "bilgisayar" kelimesi aranır
+
 ♦ (Priority = 6)
 - Ürün filtelemesi yapılır
 
