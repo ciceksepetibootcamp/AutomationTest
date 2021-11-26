@@ -1,6 +1,6 @@
-## Çiçek Sepeti AutomationTest
+# Çiçek Sepeti AutomationTest
 
-# TestOne
+## TestOne
 
 ♦ (Priority = 1)
 - ciceksepeti.com sitesi açılır.
@@ -22,7 +22,7 @@
 
 
 
-# TestTwo
+## TestTwo
 
 ♦ (Priority = 1)
 - ciceksepeti.com sitesi açılır.
