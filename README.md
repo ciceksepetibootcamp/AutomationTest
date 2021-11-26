@@ -24,13 +24,18 @@ TestTwo
 
 ♦ (Priority = 1)
 - ciceksepeti.com sitesi açılır.
+
 ♦ (Priority = 2)
 - Ana sayfada gelen popup kapatılır.
+
 ♦ (Priority = 3)
 - Rastgele bir ürün seçilir
+
 ♦ (Priority = 4)
 - Seçilen ürün sepete eklenir
+
 ♦ (Priority = 5)
 - Sepet ekranında alışverişe devam et butonu tıklanır
+
 ♦ (Priority = 6)
 - Tekrar sepete gidilir ve ürün sepetten kaldırılır.
